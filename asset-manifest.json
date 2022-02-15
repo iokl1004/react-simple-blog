@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-simple-blog/static/css/main.1bad442e.css",
-    "main.js": "/react-simple-blog/static/js/main.15db8201.js",
+    "main.js": "/react-simple-blog/static/js/main.75b81443.js",
     "static/js/787.97d49a2c.chunk.js": "/react-simple-blog/static/js/787.97d49a2c.chunk.js",
     "index.html": "/react-simple-blog/index.html",
     "main.1bad442e.css.map": "/react-simple-blog/static/css/main.1bad442e.css.map",
-    "main.15db8201.js.map": "/react-simple-blog/static/js/main.15db8201.js.map",
+    "main.75b81443.js.map": "/react-simple-blog/static/js/main.75b81443.js.map",
     "787.97d49a2c.chunk.js.map": "/react-simple-blog/static/js/787.97d49a2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1bad442e.css",
-    "static/js/main.15db8201.js"
+    "static/js/main.75b81443.js"
   ]
 }
