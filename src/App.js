@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Route exact path='/postView/:no' component={PostView} />
-        <Route exact path='/' component={PostMain} />
+        <Route exact path='/react-simple-blog' component={PostMain} />
       </BrowserRouter>
     </div>
   );
