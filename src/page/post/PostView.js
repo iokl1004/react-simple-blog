@@ -29,7 +29,7 @@ function PostView({ history, location, match }) {
                             </div>
                             <div className='post-view-row'>
                                 <label>작성일</label>
-                                <label>{data.createDate}</label>
+                                <label>{data.CreateDate}</label>
                             </div>
                             <div className='post-view-row'>
                                 <label>조회수</label>

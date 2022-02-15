@@ -23,7 +23,7 @@ function PostList(props) {
                             <CommonTableColumn>
                                 <Link to={`/postView/${item.no}`}>{item.title}</Link>
                             </CommonTableColumn>
-                            <CommonTableColumn> {item.createDate} </CommonTableColumn>
+                            <CommonTableColumn> {item.CreateDate} </CommonTableColumn>
                             <CommonTableColumn> {item.readCount} </CommonTableColumn>
                         </CommonTableRow>
                     )
